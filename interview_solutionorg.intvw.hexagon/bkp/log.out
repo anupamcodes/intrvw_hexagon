@@ -1,0 +1,91 @@
+Engine Process Starts :2018-08-04 19:36:38.096
+\tiaa\src\test\input
+Engine Process Ends :2018-08-04 19:36:38.198
+Engine Process Starts :2018-08-04 19:36:45.411
+\tiaa\src\test\input
+Engine Process Ends :2018-08-04 19:36:45.443
+Engine Process Starts :2018-08-04 19:37:21.556
+Engine Process Starts :2018-08-04 19:43:50.702
+Stream Closed
+Engine Process Ends :2018-08-04 19:43:51.35
+Engine Process Starts :2018-08-04 19:44:27.287
+Stream Closed
+Engine Process Ends :2018-08-04 19:44:59.831
+Engine Process Starts :2018-08-04 19:46:01.128
+Stream Closed
+Engine Process Ends :2018-08-04 19:47:37.857
+Engine Process Starts :2018-08-04 19:47:47.212
+Stream Closed
+Engine Process Ends :2018-08-04 19:48:31.685
+Engine Process Starts :2018-08-04 19:48:53.242
+Engine Process Starts :2018-08-04 19:51:19.055
+Invalid UTF-8 start byte 0x93 (at char #99, byte #-1)
+Engine Process Ends :2018-08-04 19:51:19.729
+Engine Process Starts :2018-08-04 19:52:35.306
+\tiaa\src\test\output\match.json (The system cannot find the path specified)
+Engine Process Ends :2018-08-04 19:55:21.703
+Engine Process Starts :2018-08-04 20:01:41.786
+Unrecognized field "cmfoodchain" (class com.anupam.tiaa.JSONBean), not marked as ignorable (one known property: "cmFoodChain"])
+ at [Source: (FileInputStream); line: 2, column: 19] (through reference chain: com.anupam.tiaa.JSONBean["cmfoodchain"])
+Engine Process Ends :2018-08-04 20:04:06.164
+Engine Process Starts :2018-08-04 20:10:36.24
+Unrecognized field "cmfoodchain" (class com.anupam.tiaa.JSONBean), not marked as ignorable (one known property: "cmFoodChain"])
+ at [Source: (FileInputStream); line: 2, column: 19] (through reference chain: com.anupam.tiaa.JSONBean["cmfoodchain"])
+Engine Process Ends :2018-08-04 20:11:07.282
+Engine Process Starts :2018-08-04 20:11:37.569
+Unrecognized field "cmfoodchain" (class com.anupam.tiaa.JSONBean), not marked as ignorable (one known property: "cmFoodChain"])
+ at [Source: (FileInputStream); line: 2, column: 19] (through reference chain: com.anupam.tiaa.JSONBean["cmfoodchain"])
+Engine Process Ends :2018-08-04 20:11:38.342
+Engine Process Starts :2018-08-04 20:11:46.965
+Unrecognized field "cmfoodchain" (class com.anupam.tiaa.JSONBean), not marked as ignorable (one known property: "cmFoodChain"])
+ at [Source: (FileInputStream); line: 2, column: 19] (through reference chain: com.anupam.tiaa.JSONBean["cmfoodchain"])
+Engine Process Ends :2018-08-04 20:13:01.834
+Engine Process Starts :2018-08-04 20:15:48.193
+Unexpected character ((CTRL-CHAR, code 147)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')
+ at [Source: (FileInputStream); line: 5, column: 27]
+ at [Source: (FileInputStream); line: 5, column: 7] (through reference chain: com.anupam.tiaa.JSONBean["cmfoodchain"]->com.anupam.tiaa.CmfoodchainType["branch"])
+Engine Process Ends :2018-08-04 20:17:44.322
+Engine Process Starts :2018-08-04 20:17:51.308
+Engine Process Ends :2018-08-04 20:18:06.807
+Engine Process Starts :2018-08-04 20:21:32.712
+Engine Process Starts :2018-08-04 20:22:20.239
+Engine Process Starts :2018-08-04 20:25:16.781
+Engine Process Ends :2018-08-04 20:27:09.487
+Engine Process Starts :2018-08-04 20:27:50.057
+Engine Process Ends :2018-08-04 20:27:50.811
+Engine Process Starts :2018-08-04 20:29:51.943
+Engine Process Ends :2018-08-04 20:31:39.974
+Engine Process Starts :2018-08-04 20:32:02.161
+Engine Process Ends :2018-08-04 20:32:04.836
+Engine Process Starts :2018-08-04 20:32:27.291
+Engine Process Ends :2018-08-04 20:32:28.426
+Engine Process Starts :2018-08-04 20:50:11.609
+Engine Process Ends :2018-08-04 20:50:40.067
+Engine Process Starts :2018-08-04 20:50:40.068
+Engine Process Ends :2018-08-04 20:50:47.65
+Engine Process Starts :2018-08-04 20:50:53.135
+Engine Process Ends :2018-08-04 20:51:02.018
+Engine Process Starts :2018-08-04 20:51:34.868
+Engine Process Ends :2018-08-04 20:51:56.391
+Engine Process Starts :2018-08-04 20:52:45.88
+Engine Process Ends :2018-08-04 20:52:47.513
+Engine Process Starts :2018-08-04 20:55:16.15
+Engine Process Ends :2018-08-04 20:55:16.9
+Engine Process Starts :2018-08-04 20:55:16.91
+Engine Process Ends :2018-08-04 20:55:16.935
+Engine Process Starts :2018-08-04 20:55:16.942
+Engine Process Ends :2018-08-04 20:55:16.972
+Engine Process Starts :2018-08-04 20:56:39.665
+Engine Process Ends :2018-08-04 20:56:40.498
+Engine Process Starts :2018-08-04 20:56:48.208
+Engine Process Ends :2018-08-04 20:56:48.271
+Engine Process Starts :2018-08-04 20:57:59.685
+Engine Process Ends :2018-08-04 20:57:59.747
+Engine Process Starts :2018-08-04 20:59:27.066
+Engine Process Ends :2018-08-04 20:59:28.023
+Engine Process Starts :2018-08-04 21:00:02.55
+Engine Process Ends :2018-08-04 21:00:03.279
+Engine Process Starts :2018-08-04 21:00:03.288
+Engine Process Ends :2018-08-04 21:00:03.314
+Engine Process Starts :2018-08-04 21:00:03.318
+Engine Process Ends :2018-08-04 21:00:03.344
