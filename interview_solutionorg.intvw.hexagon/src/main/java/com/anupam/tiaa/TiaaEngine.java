@@ -94,7 +94,7 @@ public class TiaaEngine {
 			branchDetail.setLocationid(fcType.getBranch().getLocationid());
 			branchDetail.setSumOfOrder(orderCollection);
 			branchDetail.setTotalcollection(totalCollection);
-			if (orderCollection == totalCollection) {
+			if (Float.compare(orderCollection,totalCollection)==0) {
 
 				branchDetailListMatch.add(branchDetail);
 			} else {
